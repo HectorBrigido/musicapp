@@ -1,0 +1,22 @@
+.app-container {
+  background-color: rgb(23, 4, 4);
+  font-family: 'Robotica', sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #ccc;
+}
+
+.header {
+  background-color: #f0f0f0;
+  color: rgb(165, 48, 48);
+  padding: 10px;
+  text-align: center;
+}
+
+.song-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
